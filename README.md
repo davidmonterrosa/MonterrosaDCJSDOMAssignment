@@ -11,5 +11,5 @@
 + mm/dd/yyyy - DM - short description
 - 11/25/2024 - DM - Created git repository.
 
-Peer Reviewed By:
-> Comments:
+Peer Reviewed By: Charles Orr
+> Comments: I like the use of the short if statement and for loop to shorten the code the array is also really neat, its given me good ideas on how to improve my coding and functions perfectly, wonderful job
